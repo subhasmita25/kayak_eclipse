@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <parameter name="browser" value="firefox"/>
+  <listeners>
+    <listener class-name="com.kayak.commonutility.MyListener"/>
+  </listeners>
+  <test name="FirefoxTest(failed)" parallel="none">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.kayak.scripts.TestHomePage">
+        <methods>
+          <include name="postCondition"/>
+          <include name="postCondition"/>
+          <include name="testHome"/>
+          <include name="preCondition"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.kayak.scripts.TestHomePage -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

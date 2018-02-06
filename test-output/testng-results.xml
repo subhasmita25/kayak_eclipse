@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="141813" started-at="2018-02-06T05:46:42Z" finished-at="2018-02-06T05:49:04Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="88038" started-at="2018-02-06T05:46:42Z" finished-at="2018-02-06T05:48:10Z">
+      <class name="com.kayak.scripts.TestHomePage">
+        <test-method status="PASS" signature="preCondition(java.lang.String)[pri:0, instance:com.kayak.scripts.TestHomePage@1ed4004b]" name="preCondition" is-config="true" duration-ms="48798" started-at="2018-02-06T11:16:42Z" finished-at="2018-02-06T11:17:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testHome()[pri:0, instance:com.kayak.scripts.TestHomePage@1ed4004b]" name="testHome" duration-ms="37781" started-at="2018-02-06T11:17:31Z" finished-at="2018-02-06T11:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.kayak.scripts.TestHomePage@1ed4004b]" name="postCondition" is-config="true" duration-ms="712" started-at="2018-02-06T11:18:09Z" finished-at="2018-02-06T11:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.kayak.scripts.TestHomePage -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="53733" started-at="2018-02-06T05:48:10Z" finished-at="2018-02-06T05:49:04Z">
+      <class name="com.kayak.scripts.TestHomePage">
+        <test-method status="PASS" signature="preCondition(java.lang.String)[pri:0, instance:com.kayak.scripts.TestHomePage@3632be31]" name="preCondition" is-config="true" duration-ms="16625" started-at="2018-02-06T11:18:10Z" finished-at="2018-02-06T11:18:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testHome()[pri:0, instance:com.kayak.scripts.TestHomePage@3632be31]" name="testHome" duration-ms="36639" started-at="2018-02-06T11:18:27Z" finished-at="2018-02-06T11:19:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.kayak.scripts.TestHomePage@3632be31]" name="postCondition" is-config="true" duration-ms="296" started-at="2018-02-06T11:19:04Z" finished-at="2018-02-06T11:19:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.kayak.scripts.TestHomePage -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>

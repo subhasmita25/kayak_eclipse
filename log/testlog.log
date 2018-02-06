@@ -1,0 +1,534 @@
+2018-02-01 13:52:52,132 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 13:52:52,261 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 13:52:52,672 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 13:52:53,111 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 13:52:53,284 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 13:52:57,083 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-01 13:52:57,083 - TestHomePage -INFO - Successed
+2018-02-01 13:53:07,258 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 13:53:07,620 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 13:53:07,990 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 13:53:08,591 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 13:53:08,922 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 13:53:12,467 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-01 13:53:12,467 - TestHomePage -INFO - Successed
+2018-02-01 15:46:07,577 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 15:46:07,694 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 15:46:08,030 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 15:46:08,441 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 15:46:08,602 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 15:46:42,851 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 15:46:43,318 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 15:46:43,684 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 15:46:44,244 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 15:46:44,560 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 15:46:47,650 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-01 15:46:47,650 - TestHomePage -INFO - Successed
+2018-02-01 15:48:27,657 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 15:48:27,768 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 15:48:28,084 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 15:48:28,514 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 15:48:28,659 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 15:48:48,604 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 15:48:49,051 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 15:48:49,420 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 15:48:49,968 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 15:48:50,253 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 15:48:52,272 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-01 15:48:52,272 - TestHomePage -INFO - Successed
+2018-02-01 15:54:20,683 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 15:54:20,799 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 15:54:21,136 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 15:54:21,563 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 15:54:21,706 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 15:54:25,744 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-01 15:54:25,744 - TestHomePage -INFO - Successed
+2018-02-01 15:54:42,539 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 15:54:42,948 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 15:54:43,286 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 15:59:08,175 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 15:59:08,287 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 15:59:08,606 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 15:59:09,054 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 15:59:09,247 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 16:01:02,905 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 16:01:03,031 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 16:01:03,348 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 16:01:03,767 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 16:01:03,953 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 16:01:07,893 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-01 16:01:07,893 - TestHomePage -INFO - Successed
+2018-02-01 16:01:21,120 - TestHomePage -INFO - ===Homepage verified===
+2018-02-01 16:01:21,620 - TestHomePage -INFO - ===One way clicked===
+2018-02-01 16:01:21,989 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-01 16:01:22,590 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-01 16:01:22,922 - TestHomePage -INFO - ===Search button clicked===
+2018-02-01 16:01:26,299 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-01 16:01:26,299 - TestHomePage -INFO - Successed
+2018-02-02 10:49:51,378 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 10:49:51,533 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 10:49:51,905 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 10:50:10,010 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 10:50:10,491 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 10:50:10,959 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 10:50:11,482 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 10:50:11,824 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 10:52:19,003 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 10:52:19,120 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 10:52:19,490 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 10:52:19,911 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 10:52:20,131 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 10:52:37,133 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 10:52:37,610 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 10:52:37,985 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 10:53:21,532 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 10:53:21,657 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 10:53:22,072 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 10:53:22,548 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 10:53:22,719 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 10:53:37,653 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 10:53:37,969 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 10:53:38,589 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 10:53:39,157 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 10:53:39,482 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 10:53:43,528 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-02 10:53:43,528 - TestHomePage -INFO - Successed
+2018-02-02 10:54:50,181 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 10:54:50,317 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 10:54:50,829 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 10:54:51,299 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 10:54:51,472 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 10:55:22,118 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 10:55:22,697 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 10:55:23,326 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 11:15:16,209 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 11:15:16,354 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 11:15:16,708 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 11:15:17,160 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 11:15:17,298 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 11:15:21,680 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-02 11:15:21,680 - TestHomePage -INFO - Successed
+2018-02-02 11:15:37,637 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 11:15:38,070 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 11:15:38,760 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 11:15:39,621 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 11:15:39,926 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 11:15:43,905 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-02 11:15:43,906 - TestHomePage -INFO - Successed
+2018-02-02 12:32:47,294 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 12:32:47,449 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 12:32:47,768 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 12:32:48,184 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 12:32:48,352 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 12:33:23,020 - TestHomePage -INFO - ===Homepage verified===
+2018-02-02 12:33:23,470 - TestHomePage -INFO - ===One way clicked===
+2018-02-02 12:33:23,831 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-02 12:33:24,455 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-02 12:33:24,749 - TestHomePage -INFO - ===Search button clicked===
+2018-02-02 12:33:28,724 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-02 12:33:28,724 - TestHomePage -INFO - Successed
+2018-02-05 10:31:32,525 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 10:31:32,669 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 10:31:33,023 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 10:31:33,670 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 10:31:33,835 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 10:32:07,953 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 10:32:08,437 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 10:32:09,219 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 10:32:09,780 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 10:32:10,065 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 10:33:06,383 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 10:33:06,491 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 10:33:06,880 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 10:33:07,392 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 10:33:07,551 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 10:34:05,021 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 10:34:05,129 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 10:34:05,454 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 10:34:05,947 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 10:34:06,093 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 10:35:39,029 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 10:35:39,141 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 10:35:39,449 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 10:35:39,949 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 10:35:40,101 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 10:36:12,418 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 10:36:13,308 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 10:36:14,416 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 10:36:14,960 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 10:36:15,232 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 10:43:01,015 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 10:43:01,126 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 10:43:01,436 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 10:43:01,975 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 10:43:02,128 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:10:34,219 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:10:34,376 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:10:34,783 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:10:35,294 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:10:35,444 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:11:37,350 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:11:37,466 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:11:37,838 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:11:38,366 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:11:38,513 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:13:06,369 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:13:06,479 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:13:06,767 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:13:07,175 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:13:07,353 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:13:42,483 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:13:42,811 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:13:43,512 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:13:44,035 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:13:44,311 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:16:18,749 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:16:18,859 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:16:19,182 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:16:19,606 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:16:19,777 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:16:51,655 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:16:52,066 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:16:52,429 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:16:52,984 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:16:53,300 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:22:02,956 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:22:03,073 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:22:03,373 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:22:15,151 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:22:15,596 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:22:15,956 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:23:12,427 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:23:12,543 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:23:12,889 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:23:13,378 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:23:13,556 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:23:50,609 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:23:50,985 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:23:51,337 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:25:35,161 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:25:35,277 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:25:35,521 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:25:35,964 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:25:36,136 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:26:23,857 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:26:24,240 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:26:24,338 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:26:24,880 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:26:25,159 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:27:45,004 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:27:45,120 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:27:45,504 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:27:45,952 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:27:46,144 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:27:50,029 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 11:27:50,029 - TestHomePage -INFO - Successed
+2018-02-05 11:28:04,682 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:28:05,229 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:28:06,092 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:28:06,682 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:28:07,016 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:29:28,259 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:29:28,370 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:29:28,702 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:29:29,096 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:29:29,305 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:29:42,901 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:29:43,337 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:29:43,884 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:31:57,600 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:31:57,712 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:31:58,013 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:31:58,396 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:31:58,604 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:32:15,035 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:32:15,429 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:32:15,635 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:32:16,221 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:32:16,516 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:33:11,350 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:33:11,467 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:33:11,786 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:33:12,189 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:33:12,339 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:33:17,032 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 11:33:17,033 - TestHomePage -INFO - Successed
+2018-02-05 11:36:19,768 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:36:19,882 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:36:20,191 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:36:20,594 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:36:20,803 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:36:25,122 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 11:36:25,122 - TestHomePage -INFO - Successed
+2018-02-05 11:36:41,696 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:36:42,114 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:36:42,287 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:38:28,184 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:38:28,299 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:38:28,739 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:38:29,170 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:38:29,370 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:38:33,765 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 11:38:33,765 - TestHomePage -INFO - Successed
+2018-02-05 11:38:45,490 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:38:45,986 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:38:46,479 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:38:47,134 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:38:47,451 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:39:43,353 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:39:43,478 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:39:43,763 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:39:44,194 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:39:44,367 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:39:48,950 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 11:39:48,951 - TestHomePage -INFO - Successed
+2018-02-05 11:40:00,573 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:40:01,092 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:40:01,457 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:40:02,250 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:40:02,564 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:43:05,097 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:43:05,220 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:43:05,588 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:43:05,971 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:43:06,185 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 11:43:21,618 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:43:22,271 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:43:23,012 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:43:49,204 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 11:43:49,329 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 11:43:49,737 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 11:43:50,213 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 11:43:50,385 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 12:38:46,154 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:38:46,285 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:38:46,657 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 12:38:59,352 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:38:59,895 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:39:00,412 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 12:39:01,593 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 12:39:02,138 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 12:40:13,644 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:40:13,759 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:40:14,138 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 12:40:14,510 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 12:40:14,744 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 12:40:47,077 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 12:40:47,077 - TestHomePage -INFO - Successed
+2018-02-05 12:40:59,793 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:41:00,362 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:41:00,775 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 12:43:23,175 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:43:23,297 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:43:23,690 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 12:43:24,034 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 12:43:24,277 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 12:43:56,629 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 12:43:56,629 - TestHomePage -INFO - Successed
+2018-02-05 12:44:09,089 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:44:09,655 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:44:10,078 - TestHomePage -INFO - ===Source and destination enetered===
+2018-02-05 12:51:17,543 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:51:17,660 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:51:17,800 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 12:51:18,044 - TestHomePage -INFO - destination enetered
+2018-02-05 12:51:18,491 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 12:51:18,648 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 12:51:51,344 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 12:51:51,345 - TestHomePage -INFO - Successed
+2018-02-05 12:52:03,285 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:52:03,705 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:52:03,797 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 12:52:04,172 - TestHomePage -INFO - destination enetered
+2018-02-05 12:53:54,909 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:53:55,022 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:53:55,178 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 12:53:55,344 - TestHomePage -INFO - destination enetered
+2018-02-05 12:53:55,751 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 12:53:55,965 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 12:54:28,338 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 12:54:28,338 - TestHomePage -INFO - Successed
+2018-02-05 12:54:39,725 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:54:40,165 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:54:40,624 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 12:54:40,716 - TestHomePage -INFO - destination enetered
+2018-02-05 12:55:10,616 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:55:10,728 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:55:10,878 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 12:55:11,004 - TestHomePage -INFO - destination enetered
+2018-02-05 12:55:11,408 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 12:55:11,625 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 12:55:44,085 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 12:55:44,086 - TestHomePage -INFO - Successed
+2018-02-05 12:56:01,596 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 12:56:02,095 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 12:56:02,194 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 12:56:02,261 - TestHomePage -INFO - destination enetered
+2018-02-05 13:01:07,610 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 13:01:07,728 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 13:01:07,873 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 13:01:10,004 - TestHomePage -INFO - destination enetered
+2018-02-05 13:01:10,422 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 13:01:10,650 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 13:02:43,222 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 13:02:43,333 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 13:02:43,479 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 13:02:45,672 - TestHomePage -INFO - destination enetered
+2018-02-05 13:02:46,070 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 13:02:46,281 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 13:03:18,644 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 13:03:18,644 - TestHomePage -INFO - Successed
+2018-02-05 13:03:29,100 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 13:03:29,580 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 13:03:29,699 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 13:03:31,831 - TestHomePage -INFO - destination enetered
+2018-02-05 13:03:32,355 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 13:03:32,649 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 13:04:04,813 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 13:04:04,813 - TestHomePage -INFO - Successed
+2018-02-05 13:07:35,991 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 13:07:36,108 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 13:07:36,262 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 13:07:38,422 - TestHomePage -INFO - destination enetered
+2018-02-05 13:07:38,826 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 13:07:39,039 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 13:13:00,519 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 13:13:00,632 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 13:13:00,783 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 13:13:02,951 - TestHomePage -INFO - destination enetered
+2018-02-05 13:13:03,340 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 13:13:03,563 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 13:13:35,931 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 13:13:35,931 - TestHomePage -INFO - Successed
+2018-02-05 13:13:46,446 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 13:13:47,963 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 13:13:48,221 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 13:13:50,278 - TestHomePage -INFO - destination enetered
+2018-02-05 13:16:44,626 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 13:16:44,744 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 13:16:44,907 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 13:16:47,071 - TestHomePage -INFO - destination enetered
+2018-02-05 13:16:47,444 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 13:16:47,656 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 13:17:20,016 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 13:17:20,017 - TestHomePage -INFO - Successed
+2018-02-05 13:17:32,703 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 13:17:33,123 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 13:17:33,199 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 13:17:35,302 - TestHomePage -INFO - destination enetered
+2018-02-05 13:17:35,842 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 13:17:36,170 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 13:18:08,330 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 13:18:08,331 - TestHomePage -INFO - Successed
+2018-02-05 16:18:54,096 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 16:18:54,215 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 16:18:54,364 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 16:18:56,522 - TestHomePage -INFO - destination enetered
+2018-02-05 16:18:56,928 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 16:18:57,141 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 16:19:29,501 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 16:19:29,501 - TestHomePage -INFO - Successed
+2018-02-05 16:19:41,552 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 16:19:42,023 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 16:19:42,105 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 16:19:44,208 - TestHomePage -INFO - destination enetered
+2018-02-05 16:19:44,747 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 16:19:45,058 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 16:20:17,195 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 16:20:17,195 - TestHomePage -INFO - Successed
+2018-02-05 16:26:57,757 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 16:26:57,866 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 16:26:58,016 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 16:27:00,186 - TestHomePage -INFO - destination enetered
+2018-02-05 16:27:00,573 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 16:27:00,784 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 16:27:33,137 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 16:27:33,138 - TestHomePage -INFO - Successed
+2018-02-05 16:27:44,602 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 16:27:44,955 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 16:27:45,026 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 16:27:47,132 - TestHomePage -INFO - destination enetered
+2018-02-05 16:27:47,690 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 16:27:47,980 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 16:28:20,110 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 16:28:20,110 - TestHomePage -INFO - Successed
+2018-02-05 16:29:35,598 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 16:29:35,707 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 16:29:35,855 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 16:29:38,013 - TestHomePage -INFO - destination enetered
+2018-02-05 16:29:38,417 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 16:29:38,608 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 16:30:10,940 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 16:30:10,940 - TestHomePage -INFO - Successed
+2018-02-05 16:30:23,297 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 16:30:23,906 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 16:30:23,986 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 16:30:26,089 - TestHomePage -INFO - destination enetered
+2018-02-05 16:30:26,641 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 16:30:26,941 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 16:30:59,082 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 16:30:59,082 - TestHomePage -INFO - Successed
+2018-02-05 16:59:42,622 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 16:59:42,735 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 16:59:42,907 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 16:59:45,088 - TestHomePage -INFO - destination enetered
+2018-02-05 16:59:45,498 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 16:59:45,670 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 17:00:18,022 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 17:00:18,022 - TestHomePage -INFO - Successed
+2018-02-05 17:00:28,725 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 17:00:29,115 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 17:00:29,190 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 17:00:31,278 - TestHomePage -INFO - destination enetered
+2018-02-05 17:00:31,849 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 17:00:32,124 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 17:01:04,276 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 17:01:04,276 - TestHomePage -INFO - Successed
+2018-02-05 17:19:08,383 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 17:19:08,499 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 17:19:08,658 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 17:19:10,812 - TestHomePage -INFO - destination enetered
+2018-02-05 17:19:11,230 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 17:19:11,393 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 17:19:43,722 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 17:19:43,722 - TestHomePage -INFO - Successed
+2018-02-05 17:19:54,203 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 17:19:54,738 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 17:19:54,874 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 17:19:57,052 - TestHomePage -INFO - destination enetered
+2018-02-05 17:19:57,585 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 17:19:57,885 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 17:20:30,042 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 17:20:30,043 - TestHomePage -INFO - Successed
+2018-02-05 17:42:24,347 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 17:42:24,460 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 17:42:24,607 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 17:42:26,781 - TestHomePage -INFO - destination enetered
+2018-02-05 17:42:27,191 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 17:42:27,384 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 17:42:59,690 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 17:42:59,690 - TestHomePage -INFO - Successed
+2018-02-05 17:43:09,759 - TestHomePage -INFO - ===Homepage verified===
+2018-02-05 17:43:10,120 - TestHomePage -INFO - ===One way clicked===
+2018-02-05 17:43:10,194 - TestHomePage -INFO - ===Source enetered===
+2018-02-05 17:43:12,306 - TestHomePage -INFO - destination enetered
+2018-02-05 17:43:17,339 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-05 17:43:17,740 - TestHomePage -INFO - ===Search button clicked===
+2018-02-05 17:43:49,920 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-05 17:43:49,920 - TestHomePage -INFO - Successed
+2018-02-06 11:17:32,891 - TestHomePage -INFO - ===Homepage verified===
+2018-02-06 11:17:33,374 - TestHomePage -INFO - ===One way clicked===
+2018-02-06 11:17:33,532 - TestHomePage -INFO - ===Source enetered===
+2018-02-06 11:17:35,721 - TestHomePage -INFO - destination enetered
+2018-02-06 11:17:36,122 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-06 11:17:36,336 - TestHomePage -INFO - ===Search button clicked===
+2018-02-06 11:18:09,112 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-06 11:18:09,113 - TestHomePage -INFO - Successed
+2018-02-06 11:18:27,260 - TestHomePage -INFO - ===Homepage verified===
+2018-02-06 11:18:27,720 - TestHomePage -INFO - ===One way clicked===
+2018-02-06 11:18:27,805 - TestHomePage -INFO - ===Source enetered===
+2018-02-06 11:18:29,911 - TestHomePage -INFO - destination enetered
+2018-02-06 11:18:30,700 - TestHomePage -INFO - ====Required date has choosen===
+2018-02-06 11:18:31,666 - TestHomePage -INFO - ===Search button clicked===
+2018-02-06 11:19:03,859 - TestHomePage -INFO - ===Source & destination verified===
+2018-02-06 11:19:03,859 - TestHomePage -INFO - Successed
